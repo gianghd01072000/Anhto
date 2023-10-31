@@ -67,7 +67,7 @@ p {
 }
 
 #navbar .container .fb {
-    background: url('./fb.png')no-repeat;
+    background: url('fb.png')no-repeat;
     height: 50px;
 }
 
