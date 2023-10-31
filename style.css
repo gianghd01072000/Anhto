@@ -194,7 +194,7 @@ p {
     margin-left: 5%;
     margin-right: 5%;
     border-radius: 20px;
-    background: url('./pexels-photo-907485.jpg') no-repeat center center/cover;
+    background: url('/pexels-photo-907485.jpg') no-repeat center center/cover;
     height: 600px;
 }
 
